@@ -4,8 +4,7 @@ import datetime
 import wikipedia
 import webbrowser
 import os
-import smtplib
-import ssl
+
 
 def speak(audio):
     engine.say(audio)
